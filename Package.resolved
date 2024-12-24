@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "c7c7d2cf50a3211fe2843f76869c698e4e417930",
+          "version": "6.8.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+          "version": "5.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

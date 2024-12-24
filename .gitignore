@@ -1,0 +1,6 @@
+# Ignore Xcode project and workspace files
+*.xcworkspace
+*.xcodeproj
+Tuist/.build
+Tuist/.swiftpm
+Derived/*
